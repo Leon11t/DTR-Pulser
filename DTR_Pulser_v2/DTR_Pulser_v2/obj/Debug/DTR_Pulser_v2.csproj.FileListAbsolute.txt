@@ -1,0 +1,6 @@
+e:\users\taras\documents\visual studio 2012\Projects\DTR_Pulser_v2\DTR_Pulser_v2\bin\Debug\DTR_Pulser_v2.exe.config
+e:\users\taras\documents\visual studio 2012\Projects\DTR_Pulser_v2\DTR_Pulser_v2\obj\Debug\DTR_Pulser_v2.csprojResolveAssemblyReference.cache
+e:\users\taras\documents\visual studio 2012\Projects\DTR_Pulser_v2\DTR_Pulser_v2\bin\Debug\DTR_Pulser_v2.exe
+e:\users\taras\documents\visual studio 2012\Projects\DTR_Pulser_v2\DTR_Pulser_v2\bin\Debug\DTR_Pulser_v2.pdb
+e:\users\taras\documents\visual studio 2012\Projects\DTR_Pulser_v2\DTR_Pulser_v2\obj\Debug\DTR_Pulser_v2.exe
+e:\users\taras\documents\visual studio 2012\Projects\DTR_Pulser_v2\DTR_Pulser_v2\obj\Debug\DTR_Pulser_v2.pdb
